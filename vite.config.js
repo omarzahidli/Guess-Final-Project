@@ -11,4 +11,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // default is 'dist'
   },
+  base: '/Guess-Final-Project/',
 })
